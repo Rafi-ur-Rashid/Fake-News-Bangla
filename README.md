@@ -1,4 +1,4 @@
-# Fake-News-Detection-Bangla-Text
+# Fake-News-Bangla
 Applied ML project on detecting textual fake-news in Bangla.
 
 Scripts include training & testing for: 
