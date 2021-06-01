@@ -10,4 +10,5 @@ Scripts include training & testing for:
 1. Resampling using upsampling and downsampling
 1. Ensembling using horizontal partitioning
 
-keras, scikit-learn, tensorflow
+<!--keras, scikit-learn, tensorflow-->
+<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
